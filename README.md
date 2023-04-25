@@ -1,0 +1,1 @@
+# newcas2023-magic-multiplier-lib
